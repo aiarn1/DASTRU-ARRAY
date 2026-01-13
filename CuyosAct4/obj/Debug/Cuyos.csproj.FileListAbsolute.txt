@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Cuyos\bin\Debug\Cuyos.exe.config
+C:\Users\ACT-STUDENT\source\repos\Cuyos\bin\Debug\Cuyos.exe
+C:\Users\ACT-STUDENT\source\repos\Cuyos\bin\Debug\Cuyos.pdb
+C:\Users\ACT-STUDENT\source\repos\Cuyos\obj\Debug\Cuyos.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Cuyos\obj\Debug\Cuyos.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Cuyos\obj\Debug\Cuyos.exe
+C:\Users\ACT-STUDENT\source\repos\Cuyos\obj\Debug\Cuyos.pdb
+C:\Users\ACT-STUDENT\source\repos\Cuyos\obj\Debug\Cuyos.exe.config
